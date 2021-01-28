@@ -34,6 +34,11 @@
 				<button type="submit" id="submit_products_export" name="submit_products_export" class="btn btn-default pull-right">
 					<i class="process-icon-save"></i>{l s='Export Full Products data' mod="pp_csvDataExporter"}</button>
 			</div>
+			<div class="col-md-4">
+				<button type="submit" id="submit_facebook_export" name="submit_facebook_export" class="btn btn-default pull-right">
+					<i class="process-icon-save"></i>{l s='Export Facebook Products data' mod="pp_csvDataExporter"}</button>
+			</div>
+				
             <div class="col-md-4">
 				<button type="submit" id="submit_products_texts" name="submit_products_texts" class="btn btn-default pull-right">
 					<i class="process-icon-save"></i>{l s='Export Product Texts' mod="pp_csvDataExporter"}</button>
